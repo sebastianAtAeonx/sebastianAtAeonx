@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sebastian
+- 👋 Hi, I’m @sebastian a software developer
 - 👀 I’m interested in ...playing games, coding, and solving my own coding errors
 - 🌱 I’m currently learning full stack development
 - 📫 How to reach me....
